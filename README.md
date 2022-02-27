@@ -1,1 +1,1 @@
-Visit our ![homepage](GreenVerges.github.io)
+Visit our [homepage](GreenVerges.github.io)
